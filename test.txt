@@ -1,3 +1,4 @@
-this is kondalarao
-this is sai
-this is kondareddy
+Devops/Docker/ AWS Cloud, Jenkins, Maven, Puppet, Cloudformation, Docker,git,Tomcat 8, SCM, DevOps, Build/Release Engineer. Where I worked in Configuration Management team as a DevOps, build and release engineer in automating, building, deploying and releasing of code from one environment to other environments. Perform deployments to multiple environments like Dev, QA,UAT,PRE-PROD,PROD environments. Hands-on knowledge on Continuous Integration server like Jenkins and deployment into Tomcat/ WebSphere, Web Logic Application Servers. Production experience in large environments using configuration management tools Ansible/Chef. Experience in Version Control System such as GIT. Used Maven as Build Tool for building of deployable artifacts (WAR & EAR) from source code Experience in creating images.
+
+
+To be a proficient expert as Devops Engineer by performing in simulating environments that promotes the exchange of idea and having the hands-on experience in coordinating with team to complete tasks within the schedule time and proactively involving
